@@ -1,2 +1,2 @@
 # DATA_STRUCTURE
-this repo contains data structure implementation in java
+this repo contains data structure implementation in java with optimization. 
